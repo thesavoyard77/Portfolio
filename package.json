@@ -1,4 +1,5 @@
 {
+  "homepage": "http://thesavoyard77.github.io/thesavoyard77",
   "name": "tunis",
   "version": "1.1.1",
   "private": true,
@@ -26,7 +27,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "direction-reveal": "^2.0.2"
+    "direction-reveal": "^2.0.2",
+    "gh-pages": "^3.2.3"
   }
 }
