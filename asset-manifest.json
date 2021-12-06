@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/thesavoyard77/static/css/main.2777af40.chunk.css",
+    "main.js": "/thesavoyard77/static/js/main.bab62f43.chunk.js",
+    "main.js.map": "/thesavoyard77/static/js/main.bab62f43.chunk.js.map",
+    "runtime-main.js": "/thesavoyard77/static/js/runtime-main.44d0ed28.js",
+    "runtime-main.js.map": "/thesavoyard77/static/js/runtime-main.44d0ed28.js.map",
+    "static/css/2.5413ea4e.chunk.css": "/thesavoyard77/static/css/2.5413ea4e.chunk.css",
+    "static/js/2.9bf1befb.chunk.js": "/thesavoyard77/static/js/2.9bf1befb.chunk.js",
+    "static/js/2.9bf1befb.chunk.js.map": "/thesavoyard77/static/js/2.9bf1befb.chunk.js.map",
+    "static/js/3.18bbd654.chunk.js": "/thesavoyard77/static/js/3.18bbd654.chunk.js",
+    "static/js/3.18bbd654.chunk.js.map": "/thesavoyard77/static/js/3.18bbd654.chunk.js.map",
+    "index.html": "/thesavoyard77/index.html",
+    "static/css/2.5413ea4e.chunk.css.map": "/thesavoyard77/static/css/2.5413ea4e.chunk.css.map",
+    "static/css/main.2777af40.chunk.css.map": "/thesavoyard77/static/css/main.2777af40.chunk.css.map",
+    "static/js/2.9bf1befb.chunk.js.LICENSE.txt": "/thesavoyard77/static/js/2.9bf1befb.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/thesavoyard77/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/thesavoyard77/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44d0ed28.js",
+    "static/css/2.5413ea4e.chunk.css",
+    "static/js/2.9bf1befb.chunk.js",
+    "static/css/main.2777af40.chunk.css",
+    "static/js/main.bab62f43.chunk.js"
+  ]
+}
