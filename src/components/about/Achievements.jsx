@@ -1,4 +1,5 @@
 import React from "react";
+import { GrLinkedin } from 'react-icons/gr'
 
 const achievementsContent = [
   { title: "6", subTitle1: "years of management", subTitle2: "experience" },

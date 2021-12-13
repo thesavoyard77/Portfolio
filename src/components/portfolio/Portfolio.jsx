@@ -53,11 +53,11 @@ const Portfolio = () => {
   return (
     <Tabs>
       <TabList className="portfolio-tab-list">
-        <Tab>ALL</Tab>
+        {/* <Tab>ALL</Tab>
         <Tab>LOGO</Tab>
         <Tab>VIDEO</Tab>
         <Tab>GRAPHIC DESIGN</Tab>
-        <Tab>MOCKUP</Tab>
+        <Tab>MOCKUP</Tab> */}
       </TabList>
 
       <div className="portfolio-tab-content">

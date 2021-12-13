@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const previewDemo = [
   {
     img: "dark",
-    title: "Dark Demo (Professional Portfolio)",
+    title: "Choose The Dark Side",
     routerPath: "/home-dark",
     delayAnimation: "50",
   },
   {
     img: "light",
-    title: "Light Demo (Classic Portfolio)",
+    title: "Choose The Light Side",
     routerPath: "/home-light",
     delayAnimation: "",
   },
@@ -21,8 +21,8 @@ const Preview = () => {
     <div>
       <section className="banner text-center">
         <div className="content">
-          <h1>Tunis</h1>
-          <h2>Personal Portfolio React Template</h2>
+          <h1>Christopher Felix</h1>
+          <h2>Personal Portfolio Site</h2>
         </div>
       </section>
       {/* End .banner */}
@@ -57,7 +57,7 @@ const Preview = () => {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        view demo
+                        Choose
                       </Link>
                     </h6>
                   </div>
@@ -72,16 +72,15 @@ const Preview = () => {
       <footer>
         <div className="go_purchase">
           <h6 data-aos="fade-up" data-aos-duration="1200">
-            You are at the right step now
+            Choose a side to see more
           </h6>
           <h3 data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
-            Purchase Tunis & Build Your Super Fast{" "}
+            Site made with{" "}
             <span className="theme-color">React</span> &amp;{" "}
-            <span className="theme-color">Bootstrap 5 </span> Based Portfolio
-            Template.
+            <span className="theme-color">Bootstrap 5 </span> 
           </h3>
           <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
-            <a
+            {/* <a
               className="button"
               href="https://themeforest.net/user/ib-themes/portfolio"
               target="_blank"
@@ -89,14 +88,14 @@ const Preview = () => {
             >
               <span className="button-text"> Purchase Now</span>
               <span className="button-icon fa fa-arrow-right"></span>
-            </a>
+            </a> */}
           </div>
         </div>
         {/* End go_purchase */}
 
         <div className="text-center footer_copyright">
-          <h6>Tunis - Personal Portfolio React Template</h6>
-          <h5>
+          <h6></h6>
+          {/* <h5>
             &copy; {new Date().getFullYear()} Designed with{" "}
             <span className="heart">&#10084;</span> by{" "}
             <a
@@ -106,7 +105,7 @@ const Preview = () => {
             >
               ib-themes.
             </a>{" "}
-          </h5>
+          </h5> */}
         </div>
       </footer>
       {/* End footer */}
