@@ -71,7 +71,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalOne}>
                 <img src="img/projects/project-1.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title">Mockup Project</span>
+                  <span className="content-title">Python Solo Project</span>
                 </div>
               </figure>
 
@@ -108,7 +108,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalTwo}>
                 <img src="img/projects/project-2.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Youtube Project</span>
+                  <span className="content-title"> Python Group Project</span>
                 </div>
               </figure>
 
@@ -145,7 +145,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalThree}>
                 <img src="img/projects/project-3.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Slider Project</span>
+                  <span className="content-title"> Express Solo Project</span>
                 </div>
               </figure>
 
@@ -186,7 +186,7 @@ const Portfolio = () => {
               >
                 <img src="img/projects/project-4.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Local Video Project</span>
+                  <span className="content-title"> Express Solo Project</span>
                 </div>
               </figure>
 
