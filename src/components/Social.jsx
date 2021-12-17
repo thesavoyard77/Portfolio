@@ -1,8 +1,10 @@
 import React from "react";
+import { BsLinkedin, BsGithub } from 'react-icons/bs';
+import { FaAngellist } from 'react-icons/fa';
 
 const SocialShare = [
   {
-    iconName: "fa fa-facebook",
+    iconName: <BsLinkedin />,
     link: "https://www.facebook.com/",
   },
   { iconName: "fa fa-twitter", link: "https://twitter.com/" },

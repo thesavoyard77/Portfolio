@@ -71,7 +71,7 @@ const PortfolioLight = () => {
         <figure className="direction-reveal__card" onClick={toggleModalOne}>
           <img src="img/projects/project-1.jpg" alt="Portolio" />
           <div className=" direction-reveal__overlay direction-reveal__anim--enter">
-            <span className="direction-reveal__title">Python Solo Project</span>
+            <span className="direction-reveal__title">Nomad Photographers</span>
           </div>
         </figure>
 
@@ -104,7 +104,7 @@ const PortfolioLight = () => {
         <figure className="direction-reveal__card" onClick={toggleModalTwo}>
           <img src="img/projects/project-2.jpg" alt="Portolio" />
           <div className=" direction-reveal__overlay direction-reveal__anim--enter">
-            <span className="direction-reveal__title">Python Group Project</span>
+            <span className="direction-reveal__title">Map My Run</span>
           </div>
         </figure>
 
@@ -137,7 +137,7 @@ const PortfolioLight = () => {
         <figure className="direction-reveal__card" onClick={toggleModalThree}>
           <img src="img/projects/project-3.jpg" alt="Portolio" />
           <div className=" direction-reveal__overlay direction-reveal__anim--enter">
-            <span className="direction-reveal__title">Express Solo Project</span>
+            <span className="direction-reveal__title">Book.Me</span>
           </div>
         </figure>
 
@@ -170,7 +170,7 @@ const PortfolioLight = () => {
         <figure className="direction-reveal__card" onClick={toggleModalFour}>
           <img src="img/projects/project-4.jpg" alt="Portolio" />
           <div className="direction-reveal__overlay direction-reveal__anim--enter">
-            <span className="direction-reveal__title">Express Group Project</span>
+            <span className="direction-reveal__title">Arcade Academy</span>
           </div>
         </figure>
 

@@ -11,7 +11,7 @@ const personalInfoContent = [
   // { meta: "Address", metaInfo: "41121 Big Bear BLVD, Big Bear Lake, Ca. 92315" },
   { meta: "phone", metaInfo: "(951) 375-6478" },
   { meta: "Email", metaInfo: "felix.christopher.e@gmail.com" },
-  { meta: "langages", metaInfo: "French, English" },
+  { meta: "langages", metaInfo: "English, French" },
   { meta: "Linkdin", metaInfo: <a href="https://www.linkedin.com/in/christopher-felix-a7a25a51"><BsLinkedin /></a>  },
   { meta: "AngelList", metaInfo: <a href="https://angel.co/u/christopher-felix-1"><FaAngellist /></a>  },
   { meta: "GitHub", metaInfo: <a href="https://github.com/thesavoyard77"><BsGithub /></a>  },

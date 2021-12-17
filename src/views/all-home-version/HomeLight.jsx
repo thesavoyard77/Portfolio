@@ -133,7 +133,7 @@ const HomeLight = () => {
                   <Address />
                   {/* End Address */}
 
-                  <Social />
+                  {/* <Social /> */}
                   {/* End Social */}
                 </div>
                 {/* Left Side Ends */}

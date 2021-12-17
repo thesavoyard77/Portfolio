@@ -6,7 +6,7 @@ const ModalOneContent = () => {
       <figure>
         {/* Project Details Starts */}
         <figcaption>
-          <h3>Solo Capstone Project</h3>
+          <h3>Nomad Photographers</h3>
           <div className="row open-sans-font">
             <div className="col-12 col-sm-6 mb-2">
               <i className="fa fa-file-text-o pr-2"></i>

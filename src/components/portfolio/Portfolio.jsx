@@ -71,7 +71,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalOne}>
                 <img src="img/projects/project-1.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title">Python Solo Project</span>
+                  <span className="content-title">Nomad Photographers</span>
                 </div>
               </figure>
 
@@ -108,7 +108,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalTwo}>
                 <img src="img/projects/project-2.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Python Group Project</span>
+                  <span className="content-title"> Map My Run</span>
                 </div>
               </figure>
 
@@ -145,7 +145,7 @@ const Portfolio = () => {
               <figure onClick={toggleModalThree}>
                 <img src="img/projects/project-3.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Express Solo Project</span>
+                  <span className="content-title"> Book.Me</span>
                 </div>
               </figure>
 
@@ -186,7 +186,7 @@ const Portfolio = () => {
               >
                 <img src="img/projects/project-4.jpg" alt="Portolio" />
                 <div className=" hover-content-wrapper">
-                  <span className="content-title"> Express Solo Project</span>
+                  <span className="content-title"> Arcade Academy</span>
                 </div>
               </figure>
 
