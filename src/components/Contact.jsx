@@ -82,7 +82,15 @@ const Contact = () => {
 
           <div className="col-12 col-md-12">
             <div className="form-group">
-
+              <input
+                {...register("subject", { required: true })}
+                type="text"
+                name="subject"
+                placeholder="Contact Phone Number"
+              />
+              {/* {errors.subject && (
+                <span className="invalid-feedback">Message is required.</span>
+              )} */}
             </div>
           </div>
           {/* End .col */}
