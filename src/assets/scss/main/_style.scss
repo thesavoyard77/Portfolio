@@ -2017,7 +2017,7 @@ button:focus {
 }
 
 .demo-sticker {
-  background: #2b2a2a;
+  // background: #2b2a2a;
   position: fixed;
   right: 30px;
   top: 20px;
@@ -2039,4 +2039,23 @@ button:focus {
     cursor: pointer !important;
     text-decoration: none;
   }
+}
+.dark-btn {
+  color: #fff;
+  background-color: black;
+  border-radius: 50%;
+  display: block;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer !important;
+  text-decoration: none;
+}
+
+.light-btn {
+  border-radius: 50%;
+  display: block;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer !important;
+  text-decoration: none;
 }

@@ -16,14 +16,21 @@ const menuItem = [
   // { icon: "fa-comments", menuName: "Blog" },
 ];
 
-const HomeDark = () => {
+const HomeDark = ({ mode }) => {
+
+
   return (
     <div className="yellow">
-      {/* <div className="demo-sticker">
-        <a href="/home-light">
+      <div className="demo-sticker">
+        <button className="light-btn" onClick={() => {
+          mode(false)
+        }}>
           <i className="fa fa-lightbulb-o" aria-hidden="true"></i>
-        </a>
-      </div> */}
+          </button>
+        {/* <a href="/home-light">
+          <i className="fa fa-lightbulb-o" aria-hidden="true"></i>
+        </a> */}
+      </div>
       <Tabs>
         <div className="header">
           <TabList className=" icon-menu  revealator-slideup revealator-once revealator-delay1">

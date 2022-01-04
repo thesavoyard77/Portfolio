@@ -17,15 +17,22 @@ const menuItem = [
   // { icon: "fa-comments", menuName: "Blog" },
 ];
 
-const HomeLight = () => {
+const HomeLight = ({ mode }) => {
   document.body.classList.add("light");
 
   return (
     <div className="green">
       <div className="demo-sticker">
-        <a href="/home-dark">
+      <button className="dark-btn" onClick={() => {
+          let body = document.getElementsByClassName("light")[0]
+          // debugger
+          body.classList.remove("light")
+         mode(true)}}>
+      <i className="fa fa-moon-o" aria-hidden="true"></i>
+          </button>
+        {/* <a href="/home-dark">
           <i className="fa fa-moon-o" aria-hidden="true"></i>
-        </a>
+        </a> */}
       </div>
       <AnimatedCursor
         innerSize={8}
