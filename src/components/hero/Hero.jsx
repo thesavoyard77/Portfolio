@@ -7,7 +7,7 @@ const heroContent = {
   heroMobileImage: "img-mobile",
   heroTitleName: "chris felix",
   heroDesignation: "Full Stack Developer",
-  heroDescriptions: `I'm a full stack web devloper and recent graduate of App Academy. A very selective school that accepts less than 3% of applicants. I'm currently located in Big Bear California, I'm seeking relocate or work remotely. `,
+  heroDescriptions: `I'm a full stack web devloper and recent graduate of App Academy. A very selective school that accepts less than 3% of applicants. I'm currently located in Big Bear California, I'm seeking to relocate or work remotely. `,
   heroBtn: "more about me",
 };
 
