@@ -18,7 +18,7 @@ const ModalThreeContent = () => {
       <figure>
         {/* Project Details Starts */}
         <figcaption>
-          <h3>Book.Me</h3>
+          <h3>bearbnb</h3>
           <div className="row open-sans-font">
             <div className="col-12 col-sm-6 mb-2">
               <i className="fa fa-file-text-o pr-2"></i>
@@ -46,7 +46,7 @@ const ModalThreeContent = () => {
               <span className="project-label">Preview </span>:{" "}
               <span className="ft-wt-600 uppercase">
                 <a
-                  href="https://book-me-application.herokuapp.com/"
+                  href="https://bear-bnb-app.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
